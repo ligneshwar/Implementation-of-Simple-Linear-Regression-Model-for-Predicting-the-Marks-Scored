@@ -65,7 +65,16 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+![image](https://github.com/user-attachments/assets/7f0f7403-ea1c-4c3b-9fa3-7b49d6f098e0)
+![image](https://github.com/user-attachments/assets/6f2f943a-e0c6-4c2e-8ff4-560554a8b241)
+![image](https://github.com/user-attachments/assets/8a8a42b4-82f9-43c0-a25d-74864848c78c)
+![image](https://github.com/user-attachments/assets/2c83bdf6-42a4-4e0a-a733-4e05a7923875)
+![image](https://github.com/user-attachments/assets/60d52e80-d7b1-4d7e-a200-4213e927c389)
+![image](https://github.com/user-attachments/assets/6308ddb5-2224-408b-b1bc-cc24fa3c3db6)
+![image](https://github.com/user-attachments/assets/11d8cf67-d698-46d1-83b0-437b0dfb78ee)
+![image](https://github.com/user-attachments/assets/d972f881-5443-4063-9c3d-ed47d4244e11)
+![image](https://github.com/user-attachments/assets/99baa0ba-75da-4dee-b08f-eee4bad4d7d0)
+
 
 
 ## Result:
