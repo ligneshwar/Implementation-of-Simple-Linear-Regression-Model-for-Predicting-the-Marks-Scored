@@ -8,12 +8,22 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.Import the standard Libraries.
-2.Set variables for assigning dataset values.
-3.Import linear regression from sklearn.
-4.Assign the points for representing in the graph.
-5.Predict the regression for marks by using the representation of the graph.
-6.Compare the graphs and hence we obtained the linear regression for the given datas.
+
+step 1:start the program
+
+step 2: Import the standard Libraries.
+
+stap 3:Set variables for assigning dataset values.
+
+step 4:Import linear regression from sklearn.
+
+step 5:Assign the points for representing in the graph.
+
+step 6:Predict the regression for marks by using the representation of the graph.
+
+step 7: Compare the graphs and hence we obtained the linear regression for the given datas.
+
+step 8:End the program
 
 ## Program:
 ```
@@ -65,15 +75,12 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/7f0f7403-ea1c-4c3b-9fa3-7b49d6f098e0)
-![image](https://github.com/user-attachments/assets/6f2f943a-e0c6-4c2e-8ff4-560554a8b241)
-![image](https://github.com/user-attachments/assets/8a8a42b4-82f9-43c0-a25d-74864848c78c)
-![image](https://github.com/user-attachments/assets/2c83bdf6-42a4-4e0a-a733-4e05a7923875)
-![image](https://github.com/user-attachments/assets/60d52e80-d7b1-4d7e-a200-4213e927c389)
-![image](https://github.com/user-attachments/assets/6308ddb5-2224-408b-b1bc-cc24fa3c3db6)
-![image](https://github.com/user-attachments/assets/11d8cf67-d698-46d1-83b0-437b0dfb78ee)
-![image](https://github.com/user-attachments/assets/d972f881-5443-4063-9c3d-ed47d4244e11)
-![image](https://github.com/user-attachments/assets/99baa0ba-75da-4dee-b08f-eee4bad4d7d0)
+## Plot:
+![Screenshot 2024-08-23 133814](https://github.com/user-attachments/assets/a6429200-63a2-47d8-af2d-258203533a96)
+![Screenshot 2024-08-23 133927](https://github.com/user-attachments/assets/9ba9cfb9-c5ce-4e41-a85b-d7496d39f5bb)
+
+## Values of MSE,MAE, and RMSE:
+![Screenshot 2024-08-23 133950](https://github.com/user-attachments/assets/d8f89e41-2791-4b3f-a5fa-e66c307a126c)
 
 
 
