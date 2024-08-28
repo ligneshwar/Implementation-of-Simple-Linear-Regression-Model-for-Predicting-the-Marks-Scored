@@ -80,7 +80,8 @@ print("RMSE= ",rmse)
 ![Screenshot 2024-08-23 133927](https://github.com/user-attachments/assets/9ba9cfb9-c5ce-4e41-a85b-d7496d39f5bb)
 
 ## Values of MSE,MAE, and RMSE:
-![Screenshot 2024-08-23 133950](https://github.com/user-attachments/assets/d8f89e41-2791-4b3f-a5fa-e66c307a126c)
+![image](https://github.com/user-attachments/assets/ae5b7d6f-d7bb-4903-9595-261eb7b020ed)
+
 
 
 
